@@ -1,0 +1,11 @@
+.container{
+margin-bottom: 10px;
+}
+.card{
+float: left;
+width: 40%;
+margin-right: 10px;
+}
+.progress{
+margin-bottom: 5px;
+}
